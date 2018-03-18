@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ApeMonkey</string>
+    <string name="app_name">猿圈</string>
+    <string name="des_act_start_bg">启动界面背景图</string>
+    <string name="toast_double_click_exit">再点一次就能退出啦</string>
 </resources>

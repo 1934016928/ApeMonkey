@@ -1,4 +1,4 @@
-package com.software.var.apemonkey;
+package com.software.var.ape;
 
 import org.junit.Test;
 

@@ -1,11 +1,15 @@
 <resources>
 
-    <!-- Base application theme. -->
+    <!-- APP默认主题 -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        <!--标题栏颜色-->
         <item name="colorPrimary">@color/colorPrimary</item>
+        <!--状态栏背景色-->
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!--进度条,输入框光标等颜色-->
         <item name="colorAccent">@color/colorAccent</item>
+        <!--无标题栏-->
+        <item name="windowNoTitle">true</item>
     </style>
 
 </resources>
