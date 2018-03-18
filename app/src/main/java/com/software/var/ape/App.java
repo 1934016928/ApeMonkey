@@ -3,7 +3,7 @@ package com.software.var.ape;
 import android.app.Activity;
 import android.app.Application;
 
-import com.software.var.ape.threads.ThreadPool;
+import com.software.var.ape.threads.pool.ThreadPool;
 
 import java.util.ArrayList;
 import java.util.List;

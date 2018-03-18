@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.software.var.ape.R;
 import com.software.var.ape.threads.LaunchThread;
-import com.software.var.ape.threads.ThreadPool;
+import com.software.var.ape.threads.pool.ThreadPool;
 import com.software.var.ape.ui.activity.base.AppActivity;
 
 /**

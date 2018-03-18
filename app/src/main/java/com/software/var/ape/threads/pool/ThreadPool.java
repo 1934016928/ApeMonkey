@@ -1,4 +1,4 @@
-package com.software.var.ape.threads;
+package com.software.var.ape.threads.pool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
